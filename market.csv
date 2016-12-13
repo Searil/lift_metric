@@ -1,0 +1,9 @@
+Transactions,First Item,Second Item,Third Item,Fourth Item
+Transaction1,Apple,Beer,Rice,Meat
+Transaction2,Apple,Beer,Rice,
+Transaction3,Apple,Beer,,
+Transaction4,Apple,Pear,,
+Transaction5,Milk,Beer,Rice,Meat
+Transaction6,Milk,Beer,Rice,
+Transaction7,Milk,Beer,,
+Transaction8,Milk,Pear,,
